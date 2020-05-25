@@ -1,0 +1,30 @@
+{
+  "name": "react-native-paper-datepicker",
+  "version": "1.0.0",
+  "description": "Datepicker for react-native paper implemented as awaitable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-paper-datepicker.git"
+  },
+  "keywords": [
+    "react-native-paper",
+    "datepicker"
+  ],
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-paper-datepicker/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-paper-datepicker#readme",
+  "peerDependencies": {
+    "@react-native-community/datetimepicker": "^2.4.0",
+    "react-native-paper": "^3.10.1"
+  },
+  "dependencies": {
+    "es6-deferred": "^1.3.0"
+  }
+}
